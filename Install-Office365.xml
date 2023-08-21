@@ -17,5 +17,5 @@
   <AppSettings>
     <Setup Name="Company" Value="Primary ITO - Te Pukenga" />
   </AppSettings>
-  <Display Level="Full" AcceptEULA="TRUE" />
+  <Display Level="None" AcceptEULA="TRUE" />
 </Configuration>
